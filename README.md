@@ -1,4 +1,4 @@
-# Data Science Tutor
+# Data Science Tutor AI Chatbot
 
 Data Science Tutor is a responsive and interactive AI-driven chat interface built with Streamlit and powered by OpenAI's GPT-3.5 Turbo model. It offers users the capability to engage in dynamic conversations, manage conversation history, and provide assistance to students.
 
